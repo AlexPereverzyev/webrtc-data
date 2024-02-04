@@ -23,7 +23,7 @@ After the connection is established, peer *A* starts data channel that is used b
 
 ## References
 
-https://www.npmjs.com/package/wrtc
-https://hpbn.co/webrtc/
-https://webrtc.org/getting-started
-https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection
+- https://www.npmjs.com/package/wrtc
+- https://hpbn.co/webrtc/
+- https://webrtc.org/getting-started/overview
+- https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection
